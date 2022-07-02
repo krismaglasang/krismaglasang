@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krismaglasang
-- 👀 I’m interested in backend development and software testing.
-- 🌱 I’m currently learning .NET Core with some occassional Rust.
+- 👀 I’m interested in backend development and machine learning.
+- 🌱 Currently learning Rust.
 
 <!---
 krismaglasang/krismaglasang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
